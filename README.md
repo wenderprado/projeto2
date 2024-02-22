@@ -3,7 +3,7 @@
 Este é um projeto de inicial de um curso online de inglês.
 
 
-## - Ferramentas utilizadas
+## Ferramentas utilizadas
 
 Java
 
